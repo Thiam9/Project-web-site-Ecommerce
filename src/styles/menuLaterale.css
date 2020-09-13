@@ -1,0 +1,12 @@
+a{
+    cursor: pointer;
+}
+.menuLateral{
+    margin-top:10px; 
+    margin-left: 5px;
+}
+
+#active{
+    font-weight: 700;
+    color: rgb(204, 31, 31);
+}
